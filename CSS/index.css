@@ -1,0 +1,87 @@
+body {
+  background-color: black;
+ 
+}
+
+.container {
+  align-items: center;
+  background-color: rgb(31, 31, 31);
+  text-align: center;
+  border: solid;
+  border-width: 370px;
+  border-radius: 5px;
+  overflow-y: hidden;
+}
+
+.all-content {
+  display: block;
+  align-items: center;
+}
+
+.all-content img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-bottom: -10px;
+  align-items: center;
+  padding-top: 10px;
+}
+
+#text {
+  color: rgb(201, 227, 110);
+  margin-top: -12px;
+}
+p {
+  color: rgb(125, 125, 125);
+}
+
+.git {
+  width: 250px;
+  height: 30px;
+  background-color: rgb(51, 51, 51);
+  color: rgb(232, 232, 232);
+  border-radius: 7px;
+  padding-top: 10px;
+}
+.front {
+  width: 250px;
+  height: 30px;
+  background-color: rgb(51, 51, 51);
+  color: white;
+  border-radius: 7px;
+  padding-top: 10px;
+}
+.link {
+  width: 250px;
+  height: 30px;
+  background-color: rgb(51, 51, 51);
+  color: white;
+  border-radius: 7px;
+  padding-top: 10px;
+}
+.x {
+  width: 250px;
+  height: 30px;
+  background-color: rgb(51, 51, 51);
+  color: white;
+  border-radius: 7px;
+  padding-top: 10px;
+}
+.insta {
+  width: 250px;
+  height: 30px;
+  background-color: rgb(51, 51, 51);
+  color: white;
+  border-radius: 7px;
+  padding-top: 10px;
+}
+
+.divs {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 13%;
+}
