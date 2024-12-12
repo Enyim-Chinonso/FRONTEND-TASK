@@ -1,12 +1,13 @@
 body{
-  background-color: red;
+  background-color: rgb(20, 20, 20);
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
+  font-family: 'poppins' 'sans-serif';
 }
 
-.container{
+/* .container{
   width: 400px;
   height: 300px;
   background-color: white;
@@ -15,4 +16,77 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+} */
+
+.all-content .write-ups{
+  text-align: center;
+}
+
+.all-content img{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.all-content #text{
+  color: rgb(168, 198, 89);
+  margin-top: -10px;
+}
+.all-content p{
+  color: rgb(186, 186, 186);
+}
+.container{
+  width: 300px;
+  height:400px;
+  background-color: rgb(31, 31, 31);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 10px;
+  font-size: 12px;
+}
+
+.git{
+  width: 250px;
+  height: 20px;
+  background-color: rgb(51, 51, 51);
+  color: rgb(184, 184, 184);
+  text-align: center;
+  padding-top: 8px;
+  border-radius: 5px;
+}
+.front{
+  width: 250px;
+  height: 20px;
+  background-color: rgb(51, 51, 51);
+  color: rgb(184, 184, 184);
+  text-align: center;
+  padding-top: 8px;
+  border-radius: 5px;
+}
+.link{
+  width: 250px;
+  height: 20px;
+  background-color: rgb(51, 51, 51);
+  color: rgb(184, 184, 184);
+  text-align: center;
+  padding-top: 8px;
+  border-radius: 5px;
+}
+.x{
+  width: 250px;
+  height: 20px;
+  background-color: rgb(51, 51, 51);
+  color: rgb(184, 184, 184);
+  text-align: center;
+  padding-top: 8px;
+  border-radius: 5px;
+}
+.insta{
+  width: 250px;
+  height: 20px;
+  background-color: rgb(51, 51, 51);
+  color: rgb(184, 184, 184);
+  text-align: center;
+  padding-top: 8px;
+  border-radius: 5px;
 }
